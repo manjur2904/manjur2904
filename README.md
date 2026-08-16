@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjur2904&label=Profile%20views&color=0e75b6&style=flat" alt="manjur2904" /> </p>
 
-- 🔭 I’m currently working on [NodeJS-Tutorial](https://github.com/manjur2904/NodeJS-Tutorial)
+- 🔭 I’m currently working in Nevaeh Technology as a Software Development Engineer 2
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m enjoying developing strategy and order management system(OMS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/manjur2904](https://github.com/manjur2904)
 
-- 💬 Ask me about **C++, Python, DSA**
+- 💬 Ask me about **C++, DSA, Link, Newtworking, Operating Systems**
 
 - 📫 How to reach me **manjur2904@gmail.com**
 
